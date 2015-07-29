@@ -1,0 +1,23 @@
+{
+  "name": "geolocation",
+  "version": "0.0.1",
+  "description": "Simple Geolocation App",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "compression": "^1.5.1",
+    "express": "^4.13.1",
+    "https": "^1.0.0",
+    "morgan": "^1.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Geolocation"
+  ],
+  "author": "TadhgH",
+  "license": "ISC"
+}
